@@ -1,5 +1,7 @@
 ### Hi there I'm Luciano Horta👋
 
+<p> <img src="https://komarev.com/ghpvc/?username=auadmendes&color=yellow" alt="Profile Views" /> </p>
+
 - 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on React Native
