@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Vite js + Typescript + Styled Components
 - 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on React Native
+- 👯 I’m looking to collaborate on ReactJs projects
 
 
 <div align="center">
